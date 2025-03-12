@@ -8,3 +8,6 @@ def test_add():
 
 def test_substract():
     assert cal.subtract(100, 1) == 99
+    assert cal.subtract(10, 1) == 9
+
+
